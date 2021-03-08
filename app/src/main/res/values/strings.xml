@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP3_Dev_mobile</string>
+    <string name="nom">Nom</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="age">Age</string>
+    <string name="n_t_lephone">N° télephone</string>
+    <string name="mot_de_passe">Mot de passe</string>
+</resources>
